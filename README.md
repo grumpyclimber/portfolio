@@ -6,3 +6,5 @@ Hello world, here are my humble beginnings of a portfolio:
 3. :computer:  <a href="https://github.com/grumpyclimber/portfolio/tree/main/coders_survey">coders_survey</a> - Analysis of coders survey. A battle of mean, median and mode functions.
 4. :fishing_pole_and_fish: <a href="https://github.com/grumpyclimber/portfolio/tree/main/tricks">tricks</a> - Mix of short and easy tricks or hacks.
 5. 👾: <a href="https://github.com/grumpyclimber/portfolio/tree/main/star_wars">Star Wars</a> - This one is all about the style... I've even plotted a death-star !
+
+My linkedin: [Adam Kubalica](https://www.linkedin.com/in/adam-kubalica-787a79220/)
