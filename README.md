@@ -7,4 +7,8 @@ Hello world, here are my humble beginnings of a portfolio:
 4. :fishing_pole_and_fish: <a href="https://github.com/grumpyclimber/portfolio/tree/main/tricks">tricks</a> - Mix of short and easy tricks or hacks.
 5. 👾: <a href="https://github.com/grumpyclimber/portfolio/tree/main/star_wars">Star Wars</a> - This one is all about the style... I've even plotted a death-star !
 
+languages: Python
+
+libraries: Pandas, Numpy, Matplotlib, Geopandas, Seaborn, Wikipedia
+
 My linkedin: [Adam Kubalica](https://www.linkedin.com/in/adam-kubalica-787a79220/)
