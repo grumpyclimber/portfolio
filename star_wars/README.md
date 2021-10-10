@@ -3,7 +3,7 @@ Star Wars data analysis - if you can't find a way to do a fancy data analysis: s
 # Index:
 1. Inital data inspection
 2. Data cleaning
-3. Rating of movies](#ratingm)
+3. Rating of movies
 4. Plotting the data
 5. Identyfing true fans
 6. Movie Ratings in various groups
