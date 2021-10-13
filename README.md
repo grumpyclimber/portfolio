@@ -10,6 +10,6 @@ Hello world, here are my humble beginnings of a portfolio:
 
 languages: Python
 
-libraries: Pandas, Numpy, Matplotlib, Geopandas, Seaborn, Wikipedia
+libraries: Pandas, Numpy, Matplotlib, Geopandas, Seaborn, Wikipedia, BeautifulSoup
 
 My linkedin: [Adam Kubalica](https://www.linkedin.com/in/adam-kubalica-787a79220/)
