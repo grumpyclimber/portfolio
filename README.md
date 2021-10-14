@@ -12,4 +12,5 @@ languages: Python
 
 libraries: Pandas, Numpy, Matplotlib, Geopandas, Seaborn, Wikipedia, BeautifulSoup
 
-My linkedin: [Adam Kubalica](https://www.linkedin.com/in/adam-kubalica-787a79220/)
+Adam Kubalica
+<td><a href="https://www.linkedin.com/in/adam-kubalica-787a79220/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;</td>
