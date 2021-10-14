@@ -1,4 +1,4 @@
-**TL;DR: here's my Wikipedia-movie-budget-scraping function, gimme feedback:**
+**TL;DR: I wrote a function to scrape Wikipedia for movie budgets, gimme feedback:**
 
 While doing my [Star Wars project](https://github.com/grumpyclimber/portfolio/blob/main/star_wars/star_wars2.csv), I did a basic scrape of movie data using Wikipedia library. That gave me an idea how to expand on the fandango project - scrape movie budget data and analyse rating shift based on the budget... and other factors I can scrape from the page.
 
