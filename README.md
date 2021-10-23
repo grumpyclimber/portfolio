@@ -6,7 +6,8 @@ Hello world, here are my humble beginnings of a portfolio:
 3. :computer:  <a href="https://github.com/grumpyclimber/portfolio/tree/main/coders_survey">coders_survey</a> - Analysis of coders survey. A battle of mean, median and mode functions.
 4. :fishing_pole_and_fish: <a href="https://github.com/grumpyclimber/portfolio/tree/main/tricks">tricks</a> - Mix of short and easy tricks or hacks.
 5. 👾: <a href="https://github.com/grumpyclimber/portfolio/tree/main/star_wars">Star Wars</a> - This one is all about the style... I've even plotted a death-star !
-6. :movie_camera: [scraping data](https://github.com/grumpyclimber/portfolio/tree/main/wiki_scrape) - Using BeautifulSoup to scrape budget data from Wikipedia pages.
+6. 🔡: [scraping data](https://github.com/grumpyclimber/portfolio/tree/main/wiki_scrape) - Using BeautifulSoup to scrape budget data from Wikipedia pages.
+7. :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/fandango) - Extended version of Fandango ratings analysis. 
 
 languages: Python
 
