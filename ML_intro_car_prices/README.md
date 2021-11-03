@@ -4,3 +4,5 @@ My first attempt at ML model, I've followed most of Dataquests quidance on the p
 That led me to experimenting with random seeds and it was opening up a pandora box:
 * I've ran all models on 100 random seed numbers to check how the model performs in 100 different cases, not in a single case (I'd really be grateful for feedback on that matter) instead of looking for the lowest result in those 100 runs . I was looking for a model that performed the best on average on 100 runs.
 * I've checked plenty more column combinations (selecting just the top columns from single column model results is not the best solution)
+
+[Dataset](https://archive.ics.uci.edu/ml/datasets/automobile) 
