@@ -8,10 +8,11 @@ Hello world, here are my humble beginnings of a portfolio:
 5. 👾: <a href="https://github.com/grumpyclimber/portfolio/tree/main/star_wars">Star Wars</a> - This one is all about the style... I've even plotted a death-star !
 6. 🔡: [scraping data](https://github.com/grumpyclimber/portfolio/tree/main/wiki_scrape) - Using BeautifulSoup to scrape budget data from Wikipedia pages.
 7. :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/fandango) - Extended version of Fandango ratings analysis. Includes scraping movies budget data from wiki.
+8. 🚙 [ML car prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_intro_car_prices) - Introduction to ML with k-nearest neighbors algorithm, I've extended the project with testing out multiple random seeds, checking many column combinations and different dataframe versions (based on cleaning techniques).
 
 languages: Python
 
-libraries: Pandas, Numpy, Matplotlib, Geopandas, Seaborn, Wikipedia, BeautifulSoup
+libraries: Pandas, Numpy, Matplotlib, Geopandas, Seaborn, Wikipedia, BeautifulSoup, scikit-learn
 
 Adam Kubalica
 <td><a href="https://www.linkedin.com/in/adam-kubalica-787a79220/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;</td>
