@@ -6,3 +6,5 @@ That led me to experimenting with random seeds and it was opening up a pandora b
 * I've checked plenty more column combinations (selecting just the top columns from single column model results is not the best solution)
 
 [Dataset](https://archive.ics.uci.edu/ml/datasets/automobile) 
+
+[Notebook](https://github.com/grumpyclimber/portfolio/tree/main/ML_intro_car_prices/cars_ml_small.ipynb) 
