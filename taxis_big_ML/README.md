@@ -1,5 +1,7 @@
 This is an ongoing multiple notebooks project. Currently I am at the starting stage: 
 * setting up a pipeline for importing and merging data, learning basic memory-saving tricks to fit under 16 Gb of RAM
+  * currently I've prepared a pandas-based solution
+  * next on the agenda: Dask-based solution
 
 
 A while ago I've asked a higher power (btw thanks higher power) to have a look at my portfolio and to my surprise I was flourished with glory, 
