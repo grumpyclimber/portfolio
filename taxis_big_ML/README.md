@@ -1,7 +1,13 @@
 This is an ongoing multiple notebooks project. Currently I am at the starting stage: 
 * setting up a pipeline for importing and merging data, learning basic memory-saving tricks to fit under 16 Gb of RAM
   * I've prepared a [pandas-based solution](https://github.com/grumpyclimber/portfolio/blob/main/taxis_big_ML/taxis_imports_pd.ipynb)
-  * so far I haven't been able to create a Dask-only based solution, but I've made big improvements to the speed of importing data from the source using Dask library, unfortunatelly it came with a price: 50% more RAM usage, here's the [notebook](https://github.com/grumpyclimber/portfolio/blob/main/taxis_big_ML/taxis_imports_dask_pd.ipynb)
+  * so far I haven't been able to create a Dask-only based solution, but I've made big improvements to the speed of importing data from the source using Dask library (then changing it to pandas), unfortunatelly it came with a price: 70% more RAM usage, here's the [notebook](https://github.com/grumpyclimber/portfolio/blob/main/taxis_big_ML/taxis_imports_dask_pd.ipynb)
+ 
+ **Importing 5% sample for every month of years: 2017 and 2018:**
+ |libraries|pandas|dask then pandas|
+ |---|---|---|
+ |time|27 mins|20 mins|
+ |RAM usage|3.1 GB|5.3 GB|
 
 
 A while ago I've asked a higher power (btw thanks higher power) to have a look at my portfolio and to my surprise I was flourished with glory, 
