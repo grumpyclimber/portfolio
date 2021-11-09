@@ -6,7 +6,7 @@ A while ago I've asked a higher power (btw thanks higher power) to have a look a
 apparently the data battles I fought were bold and I was getting closer to being worthy, BUT:
 * there were a few remarks and one of them was lack of merging with other datasets
 * but the most interesting remark was data scalability  
-* my projects lacked the idea that memory is a limited resource
+  * my projects lacked the idea that memory is a limited resource
 * we're going to assume that there were no other remarks
 
 
