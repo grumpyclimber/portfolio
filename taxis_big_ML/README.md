@@ -25,6 +25,8 @@ ATM I'm focusing on importing large dataset:
     * I've started using chunksize atribute 
     * Deleting the old dataframes when no longer needed and using gc.collect() to clean memory
     * Performing dataframe merging and other operations inside functions to save on memory
+  * next stop: Dask library
+    * Dask library can be a lot faster and less memory-consuming than pandas, as long as we play according to its rules
 <!--   * so far I haven't been able to create a Dask-only based solution, but I've made big improvements to the speed of importing data from the source using Dask library (then changing it to pandas), unfortunatelly it came with a price: 70% more RAM usage, here's the [notebook](https://github.com/grumpyclimber/portfolio/blob/main/taxis_big_ML/taxis_imports_dask_pd.ipynb)
  
  **Importing 5% sample for every month of years: 2017 and 2018:**
