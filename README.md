@@ -9,9 +9,10 @@ Hello world, here are my humble beginnings of a portfolio:
 6. 🔡: [scraping data](https://github.com/grumpyclimber/portfolio/tree/main/wiki_scrape) - Using BeautifulSoup to scrape budget data from Wikipedia pages.
 7. :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/fandango) - Extended version of Fandango ratings analysis. Includes scraping movies budget data from wiki.
 8. 🚙 [ML car prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_intro_car_prices) - Introduction to ML with k-nearest neighbors algorithm, I've extended the project with testing out multiple random seeds, checking many column combinations and different dataframe versions (based on cleaning techniques).
-9. :taxi: [NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/taxis_big_ML) - An ongoing project involving importing large datasets of NYC taxi trips, merging them with other data, all while trying to fit under strick memory limitations.
+9. 🏠: [ML house prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_house_prices) - Building a linear regression model to predict house prices, using feature selection techniques, outlier removal and feature engineering.
+10. :taxi: [NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/taxis_big_ML) - An ongoing project involving importing large datasets of NYC taxi trips, merging them with other data, all while trying to fit under strick memory limitations.
 
-<!-- 9. 🏠: [ML house prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_house_prices) - Building a linear regression model to predict house prices, comparing feature selection techniques, outlier removal and feature engineering. -->
+
 
 languages: Python
 
