@@ -11,6 +11,7 @@ Hello world, here are my humble beginnings of a portfolio:
 8. 🚙 [ML car prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_intro_car_prices) - Introduction to ML with k-nearest neighbors algorithm, I've extended the project with testing out multiple random seeds, checking many column combinations and different dataframe versions (based on cleaning techniques).
 9. 🏠: [ML house prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_house_prices) - Building a linear regression model to predict house prices, using feature selection techniques, outlier removal and feature engineering.
 10. :taxi: [ML NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/taxis_big_ML) - An ongoing project involving importing large datasets of NYC taxi trips, merging them with other data, all while trying to fit under strickt memory limitations.
+11. 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/straya_road_deaths) - A small and basic analysis project regarding road fatalities on Australian roads in the last 30 years.
 
 
 
