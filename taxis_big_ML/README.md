@@ -1,4 +1,4 @@
-This is an ongoing multiple notebooks project. Currently I am at the first stage: importing.
+This is an ongoing multiple notebooks project, main goal: learn a few things about memory management. Currently I am at the first stage: importing.
 
 
 **The idea behind it all:**
