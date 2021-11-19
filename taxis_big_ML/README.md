@@ -36,3 +36,5 @@ ATM I'm focusing on importing large dataset:
  |---|---|---|
  |time|27 mins|20 mins|
  |RAM usage|3.1 GB|5.3 GB| -->
+ 
+ Articles: [reading in a small sample of csv](https://stackoverflow.com/questions/22258491/read-a-small-random-sample-from-a-big-csv-file-into-a-python-data-frame), [Kaggle - working with large datasets](https://www.kaggle.com/pavansanagapati/14-simple-tips-to-save-ram-memory-for-1-gb-dataset#Technique-10:-Memory-leaks)
