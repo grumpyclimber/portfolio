@@ -1,13 +1,3 @@
 Star Wars data analysis - if you can't find a way to do a fancy data analysis: shine with style
 
-# Index:
-1. Inital data inspection
-2. Data cleaning
-3. Rating of movies
-4. Plotting the data
-5. Identyfing true fans
-6. Movie Ratings in various groups
-7. STAR... TREK
-8. Favorite characters
-9. Geography
-10. Summary
+Having done an extensive EDA on the [ebay dataset](https://github.com/grumpyclimber/portfolio/tree/main/ebay), I've also wanted to push this project beyond its scope. Unfortunatelly no matter which way I've looked at the data, I couldn't find an interesting new angle like I did with ebay data. This led me to a different approach: if I can't shine with my smart data findings, I'll try to shine with a very 'pretty' project. So I've rolled up my sleeves, pulled out the brush and started working on the visual side of this notebook. 
