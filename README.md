@@ -1,5 +1,6 @@
 # Portfolio
-Hello world, here are my humble beginnings of a portfolio, you've probably noticed that most of the below projects are based on well known datasets, but in each and every one of them I've pushed myself to outshine the standard scope of the project.
+Hello world, here are my humble beginnings of a portfolio, you've probably noticed that most of the below projects are based on well known datasets, but in each and every one of them I've pushed myself to outshine the standard scope of the project.  If I couldn't find anything new in the data, and my project would look the same as every other notebook, I've collected new data (like in Fandango project). No idea or room for new data? Then I've grabbed a brush and worked on the visualizations. (eg. Star Wars). At this stage I'm focusing on machine learning projects.
+
 
 1. :car: <a href="https://github.com/grumpyclimber/portfolio/tree/main/ebay">ebay</a> - A deeper analysis of a well know car dataset. I've managed to find a few more things among the rows.
 2. :globe_with_meridians: <a href="https://github.com/grumpyclimber/portfolio/tree/main/maps">maps</a> - Quick and easy intro to geopandas.
