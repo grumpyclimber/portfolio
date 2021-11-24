@@ -7,3 +7,5 @@ This is the first project I've decided to publish. Apart from doing the usual da
 * came across faulty data in post-2015 entries (and removed it)
 * plotted average price data on the map of Germany
 
+libraries: Pandas, Numpy, Matplotlib, Geopandas
+
