@@ -3,7 +3,7 @@ Dataquest offers online, project-based data science courses focused on data anal
 A while ago I've started writing a [generic feedback post](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/feedback.md
 ). I wanted to compile all my usual project feedback remarks into 1 list. So that everyone can have a read before/ after they publish their project and check if they still can do some work. 
 
-That made me thinking: why don't include other peoples feedback as well? I've started wondering how many published projects received at least 1 reply on Dataquests forum? Currently (November 2021) that number sits at 1102 posts. At this stage this stopped looking like writing a post, and started looking like a data analysis project...
+That made me thinking: why don't include other peoples feedback as well? I've started wondering how many published projects received at least 1 reply on Dataquest's forum? Currently (November 2021) that number sits at 1102 posts. At this stage this stopped looking like writing a post, and started looking like a data analysis project...
 
 Step 1:
 Scrape all the necessary data (project posts)
