@@ -1,6 +1,7 @@
 Dataquest offers online, project-based data science courses focused on data analysis using R and Python. Part of every course is a hands on project to practice your skills. After finishing your project, the platform encourages you to publish it on their forum to gather feedback. 
 
-A while ago I've started writing a generic feedback post. I wanted to compile all my usual project feedback remarks into 1 list. So that everyone can have a read before/ after they publish their project and check if they still can do some work. 
+A while ago I've started writing a [generic feedback post](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/feedback.md
+). I wanted to compile all my usual project feedback remarks into 1 list. So that everyone can have a read before/ after they publish their project and check if they still can do some work. 
 
 That made me thinking: why don't include other peoples feedback as well? I've started wondering how many published projects received at least 1 reply on Dataquests forum? Currently (November 2021) that number sits at 1102 posts. At this stage this stopped looking like writing a post, and started looking like a data analysis project...
 
