@@ -19,3 +19,9 @@ ML
 
 Techniques/ topics I've touched upon in this project: 
 NLP, web scraping, n-grams, stemming, tokenization, TF-IDF, Wordcloud, Supervised ML, Kmeans clustering
+
+Files in this folder:
+* [notebook](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/dq_feedback.ipynb) - the projects notebook (this is where the magic happens)
+* [feedback](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/feedback.md) - generic feedback post I've written (that's how it all started)
+* [dq projects feedback](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/projects.html) - main thread of all the published projects on DQs forum
+* [dataset](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/dq.csv) - csv file containing all the feedback posts I've scraped 
