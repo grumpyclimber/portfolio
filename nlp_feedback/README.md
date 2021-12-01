@@ -25,3 +25,6 @@ Files in this folder:
 * [feedback](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/feedback.md) - generic feedback post I've written (that's how it all started)
 * [dq projects feedback](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/projects.html) - main thread of all the published projects on DQs forum
 * [dataset](https://github.com/grumpyclimber/portfolio/blob/main/nlp_feedback/dq.csv) - csv file containing all the feedback posts I've scraped 
+
+
+![plot](https://user-images.githubusercontent.com/87883118/144156872-8d664c4f-abea-4a9e-930e-95e00bc335ec.png)
