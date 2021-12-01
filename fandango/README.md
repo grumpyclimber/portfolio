@@ -12,3 +12,4 @@ The first part doesn't differ much from other notebooks on the matter you can fi
 Having done the basic analysis on part 1, I came to conclusion that we need more data! My theory is not groundbreaking but I'will prove it: money is a very important factor in Fandango ratings, not only the amout of money involved in the movie but also where is it coming from. To perform the analysis in part 2, we'll need to aquire more data:
 * scrape Wikipedia pages of each movie for budget data and for distribution company data (more on that topic here: [how I found the link to every movie from Fandango dataset](https://github.com/grumpyclimber/portfolio/tree/main/wiki_scrape))
 * analyze the ratings based on the new data
+![sum_budgets](https://user-images.githubusercontent.com/87883118/144156554-16fb6774-b951-4ab5-aaee-f0733f525030.png)
