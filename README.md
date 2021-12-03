@@ -3,9 +3,9 @@ Hello world, here are my humble beginnings of a portfolio, most of the below pro
 
 🔍 1. [Exploratory Data Analysis](#eda)  
 
-🎰 2. Machine Learning
+🎰 2. [Machine Learning](#ml)
 
-🪄 3. Tricks and intros
+🪄 3. [Tricks and intros](#intros)
 
 <a name="eda"></a>
 # Exploratory Data Analysis
@@ -26,7 +26,7 @@ Includes scraping movies budget data from wikipedia.
 A bit of a break from recent ML projects - a quick EDA on a relatively simple dataset.
 
 ---
-
+<a name="ml"></a>
 # Machine Learning
 
 ### 🚙 [ML car prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_intro_car_prices) - Introduction to ML with k-nearest neighbors algorithm. 
@@ -41,7 +41,7 @@ Importing and merging them with other data, all while trying to fit under strict
 Scraping feedback to all of the published projects on Dataquest forum. Testing out different NLP techniques, applying machine learning to analyze text data.
 
 ---
-
+<a name="intros"></a>
 # Tricks and intros:
 ### 🔡 [Scraping data](https://github.com/grumpyclimber/portfolio/tree/main/wiki_scrape) - scraping data from Wikipedia pages.
 Getting introduced to web-scraping with BeautifulSoup, we'll develop a function to extract budget data from the website. 
