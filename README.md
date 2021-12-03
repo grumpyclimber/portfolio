@@ -32,7 +32,7 @@ A bit of a break from recent ML projects - a quick EDA on a relatively simple da
 I've extended the project with testing out multiple random seeds, checking many column combinations and different dataframe versions (based on cleaning techniques).
 
 ### 🏠: [ML house prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_house_prices) - Building a linear regression model to predict house prices.
-Using feature selection techniques, outlier removal and feature engineering.
+Using feature selection techniques, outliers removal and feature engineering.
 ### :taxi: [ML NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/taxis_big_ML) - An ongoing project involving importing large datasets of NYC taxi trips.
 Merging them with other data, all while trying to fit under strict memory limitations of a kaggle notebook.
 
