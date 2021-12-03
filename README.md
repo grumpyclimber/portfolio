@@ -33,8 +33,8 @@ I've extended the project with testing out multiple random seeds, checking many 
 
 ### 🏠: [ML house prices](https://github.com/grumpyclimber/portfolio/tree/main/ML_house_prices) - Building a linear regression model to predict house prices.
 Using feature selection techniques, outliers removal and feature engineering.
-### :taxi: [ML NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/taxis_big_ML) - An ongoing project involving importing large datasets of NYC taxi trips.
-Merging them with other data, all while trying to fit under strict memory limitations of a kaggle notebook.
+### :taxi: [ML NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/taxis_big_ML) - An ongoing project with large datasets of NYC taxi trips.
+Importing and merging them with other data, all while trying to fit under strict memory limitations of a kaggle notebook.
 
 ### 📋: [Project feedback](https://github.com/grumpyclimber/portfolio/tree/main/nlp_feedback) -  Scraping and analyzing projects feedback. 
 Scraping feedback to all of the published projects on Dataquest forum. Testing out different NLP techniques, applying machine learning to analyze text data.
