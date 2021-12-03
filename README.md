@@ -9,7 +9,7 @@ Hello world, here are my humble beginnings of a portfolio, most of the below pro
 
 # Exploratory Data Analysis
 
-### :car: <a href="https://github.com/grumpyclimber/portfolio/tree/main/ebay">Ebay cars</a> - A deeper analysis of a well know car dataset. 
+### :car: <a href="https://github.com/grumpyclimber/portfolio/tree/main/ebay">Ebay cars</a> - A deeper analysis of a well known car dataset. 
 I've managed to find a few more things among the rows. 
 
 ### :computer:  <a href="https://github.com/grumpyclimber/portfolio/tree/main/coders_survey">Coders survey</a> - Analysis of coders survey. 
@@ -21,7 +21,7 @@ I've even plotted a death-star !
 ###  :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/fandango) - Extended version of Fandango ratings analysis. 
 Includes scraping movies budget data from wikipedia.
 
-### 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/straya_road_deaths) - A small and basic analysis project regarding road fatalities on Australian roads in the last 30 years.
+### 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/straya_road_deaths) - A basic analysis of road fatalities on Australian roads
 A bit of a break from recent ML projects - a quick EDA on a relatively simple dataset.
 
 ---
