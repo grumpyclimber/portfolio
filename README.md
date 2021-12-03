@@ -7,7 +7,7 @@ Hello world, here are my humble beginnings of a portfolio, most of the below pro
 
 🪄 3. Tricks and intros
 
-<a name="#eda"></a>
+<a name="eda"></a>
 # Exploratory Data Analysis
 
 ### :car: <a href="https://github.com/grumpyclimber/portfolio/tree/main/ebay">Ebay cars</a> - A deeper analysis of a well known car dataset. 
