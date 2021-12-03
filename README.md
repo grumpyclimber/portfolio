@@ -1,12 +1,13 @@
 # Portfolio
 Hello world, here are my humble beginnings of a portfolio, most of the below projects are based on well known datasets, but in each and every one of them I've pushed myself to outshine the standard scope of the project.  If I couldn't find anything new in the data, and my project would look the same as every other notebook, I've collected new data (like in Fandango project). No idea or room for new data? Then I've grabbed a brush and worked on the visualizations. (eg. Star Wars). At this stage I'm focusing on machine learning projects. The portfolio is divided into 3 parts:
 
-🔍 1. [Exploratory Data Analysis](https://github.com/grumpyclimber/portfolio/#exploratory-data-analysis)  
+🔍 1. [Exploratory Data Analysis](#eda)  
 
 🎰 2. Machine Learning
 
 🪄 3. Tricks and intros
 
+<a name="#eda"></a>
 # Exploratory Data Analysis
 
 ### :car: <a href="https://github.com/grumpyclimber/portfolio/tree/main/ebay">Ebay cars</a> - A deeper analysis of a well known car dataset. 
