@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis projects
 
 ### :car: [Ebay cars](https://github.com/grumpyclimber/portfolio/tree/main/eda/ebay) - A deeper analysis of a well known car dataset. 
 I've managed to find a few more things among the rows. 
