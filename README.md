@@ -23,7 +23,7 @@ A battle of mean, median and mode functions.
 ### 👾 [Star Wars](https://github.com/grumpyclimber/portfolio/tree/main/eda/star_wars) - This one is all about the style... 
 I've even plotted a death-star !
 
-###  :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/fandango) - Extended version of Fandango ratings analysis. 
+###  :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/eda/fandango) - Extended version of Fandango ratings analysis. 
 Includes scraping movies budget data from wikipedia.
 
 ### 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/straya_road_deaths) - A basic analysis of road fatalities on Australian roads
