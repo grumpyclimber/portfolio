@@ -21,7 +21,7 @@ Having that knowledge I've started plotting a devious scheme in my head:
 
 ATM I'm focusing on importing large dataset:
 * setting up a pipeline for importing and merging data, learning basic memory-saving tricks to fit under 16 Gb of RAM
-  * I've prepared a [pandas-based solution](https://github.com/grumpyclimber/portfolio/blob/main/taxis_big_ML/taxis_imports_pd.ipynb) - to even make it possible with Pandas I had to introduce several techniques, that were new to me:
+  * I've prepared a [pandas-based solution](https://github.com/grumpyclimber/portfolio/blob/main/ml/taxis_large/taxis_imports_pd.ipynb) - to even make it possible with Pandas I had to introduce several techniques, that were new to me:
     * I've started using chunksize atribute 
     * Deleting the old dataframes when no longer needed and using gc.collect() to clean memory
     * Performing dataframe merging and other operations inside functions to save on memory
