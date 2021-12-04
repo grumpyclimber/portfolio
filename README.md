@@ -9,7 +9,7 @@ The portfolio is divided into 3 parts:
 
 🪄 3. [Tricks and intros](#intros)
 
-Get in touch: <td><a href="https://www.linkedin.com/in/adam-kubalica-787a79220/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" valign="bottom"/></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0"  valign="bottom" /></a>&nbsp;&nbsp;</td>
+Get in touch: <td><a href="www.linkedin.com/in/kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" valign="bottom"/></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0"  valign="bottom" /></a>&nbsp;&nbsp;</td>
 
 <a name="eda"></a>
 # Exploratory Data Analysis
@@ -76,4 +76,4 @@ libraries:
 * Meteostat
 
 Adam Kubalica
-<td><a href="https://www.linkedin.com/in/adam-kubalica-787a79220/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;</td>
+<td><a href="www.linkedin.com/in/kubalica/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;</td>
