@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning projects
 
 ### 🚙 [ML car prices](https://github.com/grumpyclimber/portfolio/tree/main/ml/intro_car_prices) - Introduction to ML with k-nearest neighbors algorithm. 
 I've extended the project with testing out multiple random seeds, checking many column combinations and different dataframe versions (based on cleaning techniques).
