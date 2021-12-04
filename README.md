@@ -3,7 +3,7 @@ Hello world, here are my humble beginnings of a portfolio! Most of the below pro
 
 The portfolio is divided into 3 parts:
 
-🔍 1. [Exploratory Data Analysis](#eda)  
+🔍 1. [Exploratory Data Analysis](#https://github.com/grumpyclimber/portfolio#exploratory-data-analysis)  
 
 🎰 2. [Machine Learning](#ml)
 
