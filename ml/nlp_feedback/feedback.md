@@ -41,8 +41,9 @@ def function (df, colname):
  function (df,colname)
  plt.show()
  ```
-7. If you're getting a 'SettingWithCopyWarning' you should do something about it, it doesn't look nice on a published notebook.
-8. Remove double empty lines between the code lines, remove empty lines at the end of a cell.
+7. If you're getting a 'SettingWithCopyWarning' you should do something about it, it doesn't look nice on a published notebook. 
+  * [article](https://www.dataquest.io/blog/settingwithcopywarning/) about SettingWithCopyWarning 
+9. Remove double empty lines between the code lines, remove empty lines at the end of a cell.
 
 9. To index or not to index? I say index, but it's a matter of personnal preference. Same goes to listing the libraries imports, different guides have different opinions:
     * [towardsdatascience](https://towardsdatascience.com/how-to-create-a-professional-github-data-science-repository-84e9607644a2
