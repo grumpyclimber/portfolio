@@ -14,7 +14,7 @@ Get in touch: <td><a href="https://linkedin.com/in/kubalica" target="_blank" rel
 <a name="eda"></a>
 # Exploratory Data Analysis
 
-### :car: <a href="https://github.com/grumpyclimber/portfolio/tree/main/ebay">Ebay cars</a> - A deeper analysis of a well known car dataset. 
+### :car: [Ebay cars](https://github.com/grumpyclimber/portfolio/tree/main/eda/ebay) - A deeper analysis of a well known car dataset. 
 I've managed to find a few more things among the rows. 
 
 ### :computer:  <a href="https://github.com/grumpyclimber/portfolio/tree/main/coders_survey">Coders survey</a> - Analysis of coders survey. 
