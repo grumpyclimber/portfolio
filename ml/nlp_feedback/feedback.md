@@ -8,7 +8,7 @@ of the night and do a terrible job of it). Some potentially very important peopl
 4. Don't comment too much - creating an empty list or dictionary doesn't require a comment line. Be efficient use 1 comment line per 2,3 or 10 lines of code
   
   example:
-  ```
+  ```python
   # create an empty list:
   empty_list = []
   # loop trough something
@@ -20,7 +20,7 @@ of the night and do a terrible job of it). Some potentially very important peopl
       empty_list.append(new_thing)
 ```
 That was a lot of commenting, how about this one:
-```
+```python
 # find every green thing in something, multiply it by 2 and add to the list:
 empty_list = []
 for thing in something:
@@ -29,9 +29,9 @@ for thing in something:
     empty_list.append(new_thing)
 ```
 5. If you're generating plots - spend an extra few lines of code to make them nicer - it takes 1 line of code to make that plot bigger!
-    * btw remember to us plt.show()
+    * btw remember to use plt.show()
 6. Use functions to reduce code. Eg. if you're generating the same plot every few cells, changing only the column name, maybe write a function for that? 
-```
+```python
 def function (df, colname):
   a = do some_plot_magic_here
   b = and_here
