@@ -12,3 +12,4 @@ Importing and merging them with other data, all while trying to fit under strict
 Scraping feedback to all of the published projects on Dataquest forum. Testing out different NLP techniques, applying machine learning to analyze text data.
 
 ---
+[back to main](https://github.com/grumpyclimber/portfolio)
