@@ -11,5 +11,8 @@ The core idea of this project is to experience working with large data. Using pa
 ### 📋 [Project feedback](https://github.com/grumpyclimber/portfolio/tree/main/ml/nlp_feedback) -  Scraping and analyzing projects feedback. 
 Another BeautifulSoup scraping session gathered feedback to all of the published projects on Dataquest forum. Having gathered a lof of text data. I've tested different NLP techniques, applied supervised and unsupervised machine learning models to analyze text data. 
 
+### 🚲 [Bike Sharing](https://github.com/grumpyclimber/portfolio/tree/main/ml/bikes) - Using multiple regression models to predict rental count
+Random Forest hyperparameter optimization using GridSearch, gathering more weather data using meteostat, testing various regression models, small steps into stacking models: averaging predictions of multiple models and using neural network model as a meta model. 
+
 ---
 [back to main](https://github.com/grumpyclimber/portfolio)
