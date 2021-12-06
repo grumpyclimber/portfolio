@@ -15,19 +15,19 @@ Get in touch: <td><a href="https://linkedin.com/in/kubalica" target="_blank" rel
 # Exploratory Data Analysis
 
 ### :car: [Ebay cars](https://github.com/grumpyclimber/portfolio/tree/main/eda/ebay) - A deeper analysis of a well known car dataset. 
-I've managed to find a few more things among the rows. 
+This dataset very often serves as an introduction to pandas. Students focused on surviving their first coding project forget to unleash their curiosity. Because of that the dataset has a lot of untapped potential: extracting engine size from the cars names, identyfing sontiage_autos, identyfying the issue with post-2015 entries to name a few. It's also a perfect dataset for a basic introduction to geopandas.
 
 ### :computer:  [Coders survey](https://github.com/grumpyclimber/portfolio/tree/main/eda/coders_survey) - Analysis of coders survey. 
-A battle of mean, median and mode functions.
+A battle of mean, median and mode functions to find the best market for the client to advertise in. 
 
 ### 👾 [Star Wars](https://github.com/grumpyclimber/portfolio/tree/main/eda/star_wars) - This one is all about the style... 
-I've even plotted a death-star !
+Star Wars fans survey is a small dataset that doesn't give us a lot potential for analysis. To make it more interesting I've decided to work on the visuals of this notebook. Custom fonts, color palettes, and lots of plots. I've even plotted a death-star. The force is strong with this one.
 
 ###  :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/eda/fandango) - Extended version of Fandango ratings analysis. 
-Includes scraping movies budget data from wikipedia.
+To dig deeper into Fandangos rating shift I've gathered more data, specifically distribution company and budget data for each movie. I've set up a BeautifulSoup scraper get the required information from Wikipedia. That gives us a better look how movie budgets and their distributors affect the ratings.   
 
 ### 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/straya_road_deaths) - A basic analysis of road fatalities on Australian roads
-A bit of a break from recent ML projects - a quick EDA on a relatively simple dataset.
+A bit of a break from recent ML projects - a quick EDA on a relatively simple dataset. Australian roads became much safer in the last 30 years. But that change doesn't affect everybody equally. Some social groups and locations are becoming more common in road fatalities.
 
 ---
 <a name="ml"></a>
@@ -37,12 +37,12 @@ A bit of a break from recent ML projects - a quick EDA on a relatively simple da
 I've extended the project with testing out multiple random seeds, checking many column combinations and different dataframe versions (based on cleaning techniques).
 
 ### 🏠 [ML house prices](https://github.com/grumpyclimber/portfolio/tree/main/ml/house_prices) - Building a linear regression model to predict house prices.
-Using feature selection techniques, outliers removal and feature engineering.
+Multiple feature engineering layers to merge various numeric and categorical columns into 1. Using feature selection techniques and testing different outliers removal methods. 
 ### :taxi: [ML NYC taxi trips](https://github.com/grumpyclimber/portfolio/tree/main/ml/taxis_large) - An ongoing project with large datasets of NYC taxi trips.
-Importing and merging them with other data, all while trying to fit under strict memory limitations of a kaggle notebook.
+The core idea of this project is to experience working with large data. Using pandas big data techniques or Dask library to manage importing and merging  datasets, all while trying to fit under strict memory limitations of a kaggle notebook.
 
 ### 📋 [Project feedback](https://github.com/grumpyclimber/portfolio/tree/main/ml/nlp_feedback) -  Scraping and analyzing projects feedback. 
-Scraping feedback to all of the published projects on Dataquest forum. Testing out different NLP techniques, applying machine learning to analyze text data.
+Another BeautifulSoup scraping session gathered feedback to all of the published projects on Dataquest forum. Having gathered a lof of text data. I've started testing out different NLP techniques, applying supervised and unsupervised machine learning to analyze text data. 
 
 ---
 <a name="intros"></a>
