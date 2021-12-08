@@ -70,10 +70,10 @@ libraries:
 * Matplotlib
 * Geopandas
 * Seaborn
+* Scikit-learn
 * Wikipedia
 * Missingno
 * BeautifulSoup
-* Scikit-learn
 * Dask
 * Textwrap
 * Meteostat
