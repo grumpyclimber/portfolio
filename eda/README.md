@@ -3,9 +3,6 @@
 ### :car: [Ebay cars](https://github.com/grumpyclimber/portfolio/tree/main/eda/ebay) - A deeper analysis of a well known car dataset. 
 This dataset very often serves as an introduction to pandas. Students focused on surviving their first coding project forget to unleash their curiosity. Because of that the dataset has a lot of untapped potential: extracting engine size from the cars names, identyfing sontiage_autos, identyfying the issue with post-2015 entries to name a few. It's also a perfect dataset for a basic introduction to geopandas.
 
-### :computer:  [Coders survey](https://github.com/grumpyclimber/portfolio/tree/main/eda/coders_survey) - Analysis of coders survey. 
-A battle of mean, median and mode functions to find the best market for the client to advertise in. 
-
 ### 👾 [Star Wars](https://github.com/grumpyclimber/portfolio/tree/main/eda/star_wars) - This one is all about the style... 
 Star Wars fans survey is a small dataset that doesn't give us a lot potential for analysis. To make it more interesting I've decided to work on the visuals of this notebook. Custom fonts, color palettes, and lots of plots. I've even plotted a death-star. The force is strong with this one.
 
