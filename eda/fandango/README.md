@@ -13,3 +13,5 @@ Having done the basic analysis on part 1, I came to conclusion that we need more
 * scrape Wikipedia pages of each movie for budget data and for distribution company data (more on that topic here: [how I found the link to every movie from Fandango dataset](https://github.com/grumpyclimber/portfolio/tree/main/other/wiki_scrape))
 * analyze the ratings based on the new data
 ![sum_budgets](https://user-images.githubusercontent.com/87883118/144156554-16fb6774-b951-4ab5-aaee-f0733f525030.png)
+
+[Notebook](https://github.com/grumpyclimber/portfolio/blob/main/eda/fandango/fandango2.ipynb)
