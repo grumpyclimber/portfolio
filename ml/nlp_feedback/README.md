@@ -20,11 +20,12 @@ Techniques/ topics I've touched upon in this project:
 NLP, web scraping, n-grams, stemming, tokenization, TF-IDF, Wordcloud, Supervised ML, Kmeans clustering
 
 Files in this folder:
-* [notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq_feedback.ipynb) - the projects notebook (this is where the magic happens), all of the steps in one notebook
+1. [notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq_feedback.ipynb) - the projects notebook (this is where the magic happens), all of the steps briefly presented in one notebook, if you're after a deeper analysis and coding experience - check out the individual notebooks for each step:
 * [scraping notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq-scraping.ipynb) - web scraping notebook
-* [feedback](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/feedback.md) - generic feedback post I've written (that's how it all started)
-* [html file](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/projects.html) - main thread of all the published projects on DQs forum
-* [dataset](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq.csv) - csv file containing all the feedback posts I've scraped 
-
+* [nlp_analysis notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/eda-on-feedback-v1.ipynb) 
+2. [feedback](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/feedback.md) - generic feedback post I've written (that's how it all started)
+3. [html file](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/projects.html) - html file of the main thread of all the published projects on DQs forum
+4. [dataset](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq.csv) - csv file containing all the feedback posts I've scraped for the first (brief) notebook
+5. [second dataset](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq_v2.csv) - csv file containing all the feedback posts I've scraped for the second notebook
 
 ![plot](https://user-images.githubusercontent.com/87883118/144156872-8d664c4f-abea-4a9e-930e-95e00bc335ec.png)
