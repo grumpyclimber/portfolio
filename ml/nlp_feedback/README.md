@@ -21,8 +21,8 @@ NLP, web scraping, n-grams, stemming, tokenization, TF-IDF, Wordcloud, Supervise
 
 Files in this folder:
 1. [notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq_feedback.ipynb) - the projects notebook (this is where the magic happens), all of the steps briefly presented in one notebook, if you're after a deeper analysis and coding experience - check out the individual notebooks for each step:
-* [scraping notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq-scraping.ipynb) - web scraping notebook
-* [nlp_analysis notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/eda-on-feedback-v1.ipynb) 
+    * [scraping notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq-scraping.ipynb) - web scraping notebook, presenting how to extract all the data from the website
+    * [nlp_analysis notebook](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/eda-on-feedback-v1.ipynb) - notebook with basic EDA on numerical data and expanded NLP analysis of the text data
 2. [feedback](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/feedback.md) - generic feedback post I've written (that's how it all started)
 3. [html file](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/projects.html) - html file of the main thread of all the published projects on DQs forum
 4. [dataset](https://github.com/grumpyclimber/portfolio/blob/main/ml/nlp_feedback/dq.csv) - csv file containing all the feedback posts I've scraped for the first (brief) notebook
