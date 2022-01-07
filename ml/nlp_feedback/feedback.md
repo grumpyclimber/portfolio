@@ -15,6 +15,7 @@ of the night and do a terrible job of it). Some potentially very important peopl
   for thing in something:
     # for every green thing do a thing:
     if thing == 'green':
+    # like multiply it by 2:
       new_thing = thing * 2
       # add to the list:
       empty_list.append(new_thing)
