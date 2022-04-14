@@ -23,7 +23,7 @@ Star Wars fans survey is a small dataset that doesn't give us a lot potential fo
 ###  :movie_camera: [Fandango](https://github.com/grumpyclimber/portfolio/tree/main/eda/fandango) - Extended version of Fandango ratings analysis. 
 To dig deeper into Fandangos rating shift I've gathered more data, specifically distribution company and budget data for each movie. I've set up a BeautifulSoup scraper get the required information from Wikipedia. That gives us a better look how movie budgets and their distributors affect the ratings.   
 
-### 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/straya_road_deaths) - A basic analysis of road fatalities on Australian roads
+### 🚑 [Road fatalities](https://github.com/grumpyclimber/portfolio/tree/main/eda/straya_road_deaths) - A basic analysis of road fatalities on Australian roads
 A bit of a break from recent ML projects - a quick EDA on a relatively simple dataset. Australian roads became much safer in the last 30 years. But that change doesn't affect everybody equally. Some social groups and locations are becoming more common in road fatalities.
 
 ---
