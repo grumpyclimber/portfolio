@@ -1,3 +1,6 @@
+# Update
+This repo was created when I was learning how to code (so I could get my first job in data). I haven't updated the repo in ages and looking at some of my code with real world experience can be... hmm quite entertaining :) Nevertheles it's a good indicator of how your projects can look if you're also trying to get into the data world. 
+
 # Portfolio
 Hello world, here are my humble beginnings of a portfolio! Most of the below projects are based on well known datasets, but in each and every one of them I've pushed myself to outshine the standard scope of the project.  If I couldn't find anything new in the data, and my project would look the same as every other notebook, I've collected new data (like in [Fandango project](https://github.com/grumpyclimber/portfolio/tree/main/eda/fandango)). No idea or room for new data? Then I've grabbed a brush and worked on the visualizations. (eg. [Star Wars](https://github.com/grumpyclimber/portfolio/tree/main/eda/star_wars)). At this stage I'm focusing on machine learning projects. My newest addition is a [project feedback](https://github.com/grumpyclimber/portfolio/tree/main/ml/nlp_feedback) notebook, where I've used a web scraper to extract all the comments to students guided projects and analyzed that data. 
 
